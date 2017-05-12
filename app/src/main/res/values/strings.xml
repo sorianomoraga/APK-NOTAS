@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="label_titulo">Calcular promedio</string>
+    <string name="n1" />
+</resources>
